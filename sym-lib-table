@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "MXR_EnvelopeFilter-rescue")(type "Legacy")(uri "${KIPRJMOD}/MXR_EnvelopeFilter-rescue.lib")(options "")(descr ""))
+  (lib (name "socket_custom")(type "Legacy")(uri "${KIPRJMOD}/lib/socket_custom.lib")(options "")(descr ""))
+  (lib (name "sw_custom")(type "Legacy")(uri "${KIPRJMOD}/lib/sw_custom.lib")(options "")(descr ""))
+  (lib (name "4069ub")(type "Legacy")(uri "${KIPRJMOD}/lib/4069ub.lib")(options "")(descr ""))
+  (lib (name "4066bms")(type "Legacy")(uri "${KIPRJMOD}/lib/4066bms.lib")(options "")(descr ""))
+)
