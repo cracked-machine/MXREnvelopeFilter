@@ -413,6 +413,10 @@
     [
       "c5be94d7-f631-468c-b402-b8273c7176fe",
       ""
+    ],
+    [
+      "3464fa3f-3266-4dfb-b73c-493999e0c065",
+      "PedalController"
     ]
   ],
   "text_variables": {}
