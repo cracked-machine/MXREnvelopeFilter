@@ -4211,7 +4211,7 @@
     (in_bom yes) (on_board yes)
     (uuid cea3126a-864b-4acc-9d3a-01ef1f105f50)
     (property "Reference" "R7" (id 0) (at 400.05 121.92 90))
-    (property "Value" "10K" (id 1) (at 400.05 116.84 90))
+    (property "Value" "10M" (id 1) (at 400.05 116.84 90))
     (property "Footprint" "" (id 2) (at 400.05 117.602 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5049,7 +5049,7 @@
       (reference "R6") (unit 1) (value "10M") (footprint "")
     )
     (path "/cea3126a-864b-4acc-9d3a-01ef1f105f50"
-      (reference "R7") (unit 1) (value "10K") (footprint "")
+      (reference "R7") (unit 1) (value "10M") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005a2aacf1"
       (reference "R8") (unit 1) (value "240K") (footprint "")
